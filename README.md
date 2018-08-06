@@ -1,8 +1,8 @@
-# 0-hello-world Journal
+# 0-hello-world Instructions
 
 A common technique used by programmers when learning a new language or technique is to do something in a very basic way and call it "hello world".
 
-This assignment will be our first experience with github and journaling for this course.
+In this assignment introduces github and journaling for this course.
 
 To complete this assignment:
     
@@ -15,8 +15,13 @@ To complete this assignment:
 
     >>The items in these lists can be vocabulary, tasks, concepts, whatever sticks out in your mind. Try to find at least two items per list and feel free to make them as long as you like. I will use these lists to check in with you next week on Slack.
 
-1. Visit [https://github.com](https://github.com) 
-1. Create a new file in your text editor named `hello.md`.
-1. In `hello.md` write, `Hello, my name is ______` and fill in the blank with your name.
+1. Visit https://github.com/ITP-175-FA18/0-hello-world-`yourusername` to visit the repository you cloned earlier.
+1. Click the `Create new file` button on this page and name it `journal.md`.
+1. In `journal.md ` paste in the two lists from your notes.
+1. Scroll down and you'll see a section called `Commit new file`. In the smaller textbox type, `create journal.md` and select the Commit directly to the `master` branch option.
 
-Submit the assignment [following these instructions].
+    >>On github, a commit is like hitting save and  upload button. We'll learn more about version control soon.
+    
+1. Click the green `Commit new file` button. 
+
+
