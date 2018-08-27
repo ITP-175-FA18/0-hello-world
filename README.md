@@ -27,7 +27,7 @@ To complete this assignment:
     ![Accept the assignment][2]
     ![Assignment setup][3]
 
-1. Visit [the Github homepage][4] and you should now see `ITP-175-FA18/0-hello-world` in the list on the left under Repositories.
+1. Once this step is complete, visit [the Github homepage][4] and you should now see `ITP-175-FA18/0-hello-world` in the list on the left under Repositories.
 
     **Reach out to the professor if you have issues getting to this stage. Do NOT Wait!!**
 
