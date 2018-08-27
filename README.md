@@ -10,35 +10,35 @@ To complete this assignment:
 
     >>Take all the notes you need to help get through the content and concepts presented this week. You do not need to change your normal note taking style for this assignment.
 
-2. After you've gone through all the content for this week, at the bottom of your notes, add a section called "Reflections"
-3. Here, write out two lists. One for the things you understand most confidently, and another for the things you are struggling with.
+1. After you've gone through all the content for this week, at the bottom of your notes, add a section called "Reflections"
+1. Here, write out two lists. One for the things you understand most confidently, and another for the things you are struggling with.
 
     >>The items in these lists can be vocabulary, tasks, concepts, whatever sticks out in your mind. Try to find at least two items per list and feel free to make them as long as you like. I will use these lists to check in with you next week on Slack.
 
-4. Join the `0-hello-world` slack channel
-5. In that Slack channel, you will see a link that will take you to Github Classroom
+1. Join the `0-hello-world` slack channel
+1. In that Slack channel, you will see a link that will take you to Github Classroom
 
     You'll need to authorize Github Classroom the first time.
 
     ![Github Classroom Authorize][1]
 
-6. Accept the `0-hello-world` assignment and Github will create a version of the project for you.
+1. Accept the `0-hello-world` assignment and Github will create a version of the project for you.
 
     ![Accept the assignment][2]
     ![Assignment setup][3]
 
-7. Visit [the Github homepage][4] and you should now see `ITP-175-FA18/0-hello-world` in the list on the left under Repositories.
+1. Visit [the Github homepage][4] and you should now see `ITP-175-FA18/0-hello-world` in the list on the left under Repositories.
 
     **Reach out to the professor if you have issues getting to this stage. Do NOT Wait!!**
 
-8. Click the `ITP-175-FA18/0-hello-world` repository and you will see a copy of these assignment instructions.
-9. Click the green `Create new file` button on this page and name it `journal.md`.
-10. In `journal.md` paste in the two lists from your Reflections.
-11. Scroll down and you'll see a section called `Commit new file`. In the smaller textbox type, `create journal.md` and select the Commit directly to the `master` branch option.
+1. Click the `ITP-175-FA18/0-hello-world` repository and you will see a copy of these assignment instructions.
+1. Click the green `Create new file` button on this page and name it `journal.md`.
+1. In `journal.md` paste in the two lists from your Reflections.
+1. Scroll down and you'll see a section called `Commit new file`. In the smaller textbox type, `create journal.md` and select the Commit directly to the `master` branch option.
 
     >>On github, a commit is like hitting a "save and upload" button. We'll learn more about version control soon.
 
-12. Click the green `Commit new file` button.
+1. Click the green `Commit new file` button.
 
 ## Grading Rubric
 
